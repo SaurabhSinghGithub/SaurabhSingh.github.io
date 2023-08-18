@@ -12,6 +12,13 @@ section{
   padding: 100px 200px;
 }
 
+h3{
+  margin-bottom: 10px;
+}
+.ppp {
+  margin-bottom: 10px;
+}
+
 .main{
   position: relative;
   width: 100%;
